@@ -10,3 +10,8 @@
 body {
 	margin-left: 50px;
 }
+
+.photos {
+	display: inline-block;
+	margin: auto;
+}
