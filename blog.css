@@ -2,13 +2,23 @@
 	font-family: sans-serif;
 }
 
+#top {
+	margin-left: -5px;
+	width: intrinsic;
+}
+
 #title {
 	color: #10a1ff;
-	margin-left: -25px;
+	display: table;
+}
+
+#titleCaption {
+	text-align: center;
+	margin-top: -20px;
 }
 
 body {
-	margin-left: 50px;
+	margin-left: 50px;s
 }
 
 .photos {
